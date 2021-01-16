@@ -12,7 +12,9 @@
 
 <img src="https://cdn.discordapp.com/attachments/777509514890313758/792403274007314492/unknown.png" alt="iniGambar">
 
-- 3. If you done, you can just click the file called `gif.py`, and now you can start the program
+- 3. You need to click file called `install.bat` for install the package required 
 
-- 4. Enjoy 
+- 4. If you done, you can just click the file called `gif.py`, and now you can start the program
+
+- 5. Enjoy 
 
