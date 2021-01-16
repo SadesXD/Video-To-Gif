@@ -53,13 +53,13 @@ def run():
     time.sleep(1)
     vid = askopenfilename()
     clip = VideoFileClip(vid)
-    os.system('cls')
+    cls()
     nama = input("What's file name will you set as a gif file: ")
     if not nama:
         nama = "VidToGif"
     print(f"\nStarting convert your video file into gif file as [ {nama} {fileTimeName}.gif ]...\n")
     clip.write_gif(f'{nama} {fileTimeName}.gif', fps= 10)
-    os.system('cls')
+    cls()
     print("\nSuccess convert video file into gif file")
     back()
 
